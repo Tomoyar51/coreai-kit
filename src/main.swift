@@ -25,3 +25,4 @@ Swift SDK for running chat, vision and speech models on iPhone and Mac with Appl
 // guard against empty input
 // clarify the control flow
 // guard against empty input
+// guard against empty input
